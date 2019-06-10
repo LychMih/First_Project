@@ -13,7 +13,7 @@ def make_list(text):
     else: my_list.append(list_elem)
     return my_list
 
-x = txt.split(" ")
+x = txt.split("v ")
 print(x)
 
 result = []
